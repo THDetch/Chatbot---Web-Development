@@ -1,0 +1,36 @@
+{
+    "speisekarte": [
+        {
+            "produkt_name": "zoom pegasus",
+            "id": 0,
+            "preis": 249,
+            "produkt_type": 1
+        },{
+            "produkt_name" : "Air nike",
+            "id" : 1,
+            "preis": 149,
+            "produkt_type":2
+        },{
+            "produkt_name": "Zoom revese",
+            "id": 2,
+            "preis": 29,
+            "produkt_type": 3
+        },{
+            "produkt_name": "All stars",
+            "id": 3,
+            "preis": 89,
+            "produkt_type": 4
+        },{
+            "produkt_name": "Nike revese",
+            "id": 4,
+            "preis": 249,
+            "produkt_type": 5
+        },{
+            "produkt_name": "High Sneaker",
+            "id": 5,
+            "preis": 179,
+            "produkt_type": 6
+        }
+        
+    ]
+}

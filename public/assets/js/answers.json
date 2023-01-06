@@ -1,0 +1,74 @@
+{
+    
+    "answers": [
+        {
+            "intent": "produkte",
+            "answer" : "Produkte stehen auf der rechten Seite -->"
+
+        },
+        {
+            "intent": "hallo",
+            "answer": "Hallo da ist Nike Store! Bist du bereit?"
+        },
+        {
+            "intent": "ja",
+            "answer": "Wähle deine Lieblingsprodukte rechts"
+        },
+        {
+            "intent": "nein",
+            "answer": " Jetzt zahlen und Bestellung aufgeben"
+        },
+        {
+            "intent": "bestellen",
+            "answer": "Zum Bestellen den Namen des Produkts schreiben"
+        },
+        {
+            "intent": "aufgeben",
+            "answer": "Bestellung erfolgreich aufgegeben. Bestätigung wurde an deine E-mail adresse geschickt. See you again :)"
+        },
+        {
+            "intent": "zahlenmethode",
+            "answer": "Zahlung erfolgt über EC-Karte oder Paypal"
+        },{
+            "intent": "zahlen",
+            "answer": "Zahlung erfolgt über EC-Karte oder Paypal. Daten eingeben und aufgeben Schreiben"
+        },
+        {
+            "intent": "zoom pegasus",
+            "answer": "Zoom Pegasus wurde zum Warenkorb hinzugefügt. Sie kosten 249€, noch was bestellen?",
+            "product": true,
+            "id": 0
+        },
+        
+        {
+            "intent": "air nike",
+            "answer": "Air Nike wurde zum Warenkorb hinzugefügt. Sie kosten 149€, noch was bestellen?",
+            "product": true,
+            "id": 1
+        },
+        {
+            "intent": "zoom revese",
+            "answer": " Zoom Revese wurde zum Warenkorb hinzugefügt. Sie kosten 29€",
+            "product": true,
+            "id": 2
+        },
+        {
+            "intent": "all stars",
+            "answer": "ALl Strat wurde zum Warenkorb hinzugefügt. Sie kosten 89€",
+            "product": true,
+            "id": 3
+        },
+        {
+            "intent": "nike revese",
+            "answer": "Ich habe  Zoom Pegasus. Sie kostet 249€?",
+            "product": true,
+            "id": 4
+        },
+        {
+            "intent": "high sneaker",
+            "answer": "High Sneaker wurde zum Warenkorb hinzugefügt. Sie kosten 249€, noch was bestellen?",
+            "product": true,
+            "id": 5
+        }
+    ]
+}
